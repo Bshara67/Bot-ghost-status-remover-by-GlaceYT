@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Welcome to Creativity Invaders !","Modreating in Creativity Invaders!"];
+const statusMessages = ["Add me to your server!","Observing you!","Do I look good?"];
 
 
 let currentIndex = 0;
